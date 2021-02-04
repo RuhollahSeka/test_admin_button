@@ -39,6 +39,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'buttons',
+    'users',
+
+    "rest_framework",
+    "rest_framework_api_key",
 ]
 
 MIDDLEWARE = [
